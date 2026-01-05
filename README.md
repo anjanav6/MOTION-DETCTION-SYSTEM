@@ -57,7 +57,5 @@ The system monitors a PIR sensor input via an External Interrupt (EXTI). When mo
 
 ---
 
-## 📝 License
-Copyright (c) 2024 STMicroelectronics. All rights reserved. 
-This software is licensed under terms that can be found in the LICENSE file in the root directory.
+
  
